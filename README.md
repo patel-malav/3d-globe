@@ -15,6 +15,7 @@ This project was made by [patel-malav](https://github.com/patel-malav)
 * Australia
 * Austria
 * Azerbaijan
+* Bahrain
 * Bangladesh
 * Belarus
 * Belgium
@@ -79,7 +80,7 @@ This project was made by [patel-malav](https://github.com/patel-malav)
 * Iran
 * Iraq
 * Ireland
-* Israel
+* Palestine
 * Italy
 * Jamaica
 * Japan
@@ -90,6 +91,7 @@ This project was made by [patel-malav](https://github.com/patel-malav)
 * Kyrgyzstan
 * Laos
 * Latvia
+* Lebanon
 * Lesotho
 * Liberia
 * Libya
